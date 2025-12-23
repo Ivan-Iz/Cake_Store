@@ -1,0 +1,28 @@
+
+
+.tabel {
+    color: white;
+}
+
+body {
+    background-image: url('../img/Cake.jpg');
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+div {
+    border: 1px solid #7889;
+    border-radius: 5%;
+    margin: auto;
+    background-color: #333;
+    height: 25rem;
+    width: 20rem;
+}
+
+div p {
+    text-align: center;
+    color: #fff;
+}

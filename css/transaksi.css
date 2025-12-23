@@ -1,0 +1,48 @@
+:root {
+    --coffe: #b6895b;
+    --bg: #010101;
+}
+
+
+body {
+    background: #f5f5f5;
+    font-family: Poppins, sans-serif;
+}
+
+.container {
+    width: 40%;
+    margin: 40px auto;
+    background: white;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+}
+
+h1 {
+    text-align: center;
+}
+
+.struk p {
+    font-size: 16px;
+    margin: 8px 0;
+}
+
+.status {
+    color: green;
+    font-weight: bold;
+}
+
+button {
+    padding: 12px;
+    width: 100%;
+    margin-top: 15px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    background: var(--coffe);
+    color: white;
+}
+
+button:hover {
+    background: brown;
+}
